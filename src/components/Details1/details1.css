@@ -1,0 +1,29 @@
+.basic-1 {
+  padding-top: 1.625rem;
+  padding-bottom: 3.75rem;
+}
+
+.basic-1 .text-container {
+  margin-bottom: 4rem;
+}
+
+.basic-1 h2 {
+  margin-bottom: 1.375rem;
+}
+
+.basic-1 .btn-solid-reg {
+  margin-top: 0.625rem;
+}
+@media (min-width: 992px) {
+  .basic-1 .text-container {
+    margin-top: 3.875rem;
+    margin-bottom: 0;
+  }
+}
+@media (min-width: 1200px) {
+  .basic-1 .text-container {
+    margin-top: 6.125rem;
+    margin-right: 4rem;
+    margin-left: 1rem;
+  }
+}
